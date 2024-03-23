@@ -1,0 +1,13 @@
+Samples,Species,Matk,rbcL,trnH-psbA,ITS
+1,Ailanthus altissima,False,True,False,False
+2,Carex pendula,False,True,True,False
+3,Prunus laurocerasus,True,True,True,True
+4,Symphoricarpos orbiculatus,True,True,True,True
+5,Berberis aquifolium,True,True,True,True
+6,Viburnum opulus,True,True,True,True
+7,Corylus avellana,True,True,True,True
+8,Tilia cordata,True,True,True,True
+9,Spiraea trilobata,True,True,True,True
+10,Ficus benjamina,False,True,True,True
+11,Solanum lycopersicum,True,True,False,True
+12,Hedera helix,True,True,True,True

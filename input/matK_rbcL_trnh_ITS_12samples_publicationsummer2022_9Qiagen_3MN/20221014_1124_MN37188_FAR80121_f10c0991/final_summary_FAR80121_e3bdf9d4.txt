@@ -1,0 +1,17 @@
+instrument=MN37188
+position=
+flow_cell_id=FAR80121
+sample_id=Publicationsummer2022_9Qiagen_3MN
+protocol_group_id=Publicationsummer2022_9Qiagen_3MN
+protocol=sequencing/sequencing_MIN106_DNA:FLO-MIN106:SQK-RBK004
+protocol_run_id=f10c0991-3bdc-4053-8d81-61e3652f5ca2
+acquisition_run_id=e3bdf9d4357eb89c10012f87d4343601f6360eb8
+started=2022-10-14T11:27:23.273464+02:00
+acquisition_stopped=2022-10-14T13:23:11.783239+02:00
+processing_stopped=2022-10-14T13:23:20.547120+02:00
+basecalling_enabled=1
+sequencing_summary_file=sequencing_summary_FAR80121_e3bdf9d4.txt
+fast5_files_in_final_dest=26
+fast5_files_in_fallback=0
+fastq_files_in_final_dest=26
+fastq_files_in_fallback=0
