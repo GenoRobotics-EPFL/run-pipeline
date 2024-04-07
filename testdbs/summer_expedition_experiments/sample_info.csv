@@ -1,13 +1,13 @@
-Samples,Species,Matk,rbcL,trnH-psbA,ITS
-1,Ailanthus altissima,False,True,False,False
-2,Carex pendula,False,True,True,False
-3,Prunus laurocerasus,True,True,True,True
-4,Symphoricarpos orbiculatus,True,True,True,True
-5,Berberis aquifolium,True,True,True,True
-6,Viburnum opulus,True,True,True,True
-7,Corylus avellana,True,True,True,True
-8,Tilia cordata,True,True,True,True
-9,Spiraea trilobata,True,True,True,True
-10,Ficus benjamina,False,True,True,True
-11,Solanum lycopersicum,True,True,False,True
-12,Hedera helix,True,True,True,True
+,Barcode,Species,gene,Volume(ml),note
+0,1,Ailanthus altissima,rbcL,7.5,No Note
+1,2,Carex pendula,"rbcL, trnH-psbA",6.5,No Note
+2,3,Prunus laurocerasus,"rbcL, trnH-psbA",6.5,No Note
+3,4,Symphoricarpos orbiculatus,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+4,5,Berberis aquifolium,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+5,6,Viburnum opulus,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+6,7,Corylus avellana,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+7,8,Tilia cordata,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+8,9,Spiraea trilobata,"matK, rbcL, trnH-psbA, ITS",8.0,No Note
+9,10,Ficus benjamina,"rbcL, trnH-psbA, ITS",7.5,No Note
+10,11,Solanum lycopersicum,"matK, rbcL, ITS",7.5,No Note
+11,12,Hedera helix,"matK, rbcL, trnH-psbA, ITS",8.0,No Note

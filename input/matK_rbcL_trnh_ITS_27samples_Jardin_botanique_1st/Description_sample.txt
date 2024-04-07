@@ -1,0 +1,34 @@
+ref: Jardin Botanique Expe 1 : Sequencing of MN samples with purification
+
+Description: DNA extracted with MN patches (low quality DNA),purified, amplified by PCR to amplify matK, rbcL, trnH-psbA, ITS on 14 different plants, library prep & sequencing done with: rapid sequencing 96 barcoding (?) & minIon flowcell
+
+Barcodes sequences not provided
+
+plantes description:
+Samples/Genes 			A - matK 	B - rbcL 	C - trnH-psbA 	D - ITS
+68 Iris sibirica 								X
+69 Eleocharis Palustris 							X
+70 Cercidyphyllum japonicum 							X
+71,72 Acer opalus Mill.		 		 		X (71)		X (72)
+73,74,75 Hedera colchica 	X (75)		 		X (73)		X (74)
+76 Asarum europaeum 						 		X
+77,78 bauhinia grandiflora 					X (77) 		X (78)
+79 no DNA (Solanum?) 				 		X
+80 Iris sibirica 		 		X (80) 		
+82,83,84 Photinia davidiana 			X (84) 		X (82) 		X (83)
+85,86,87 Allium Ursinum				X (87) 		X (85) 		X (86)
+88 Convallaria magalis 		 		 		X 		
+89,90,91 Ficus religiosa			X (91) 		X (89) 		X (90)
+92 bauhinia grandiflora				X (92)
+94 Heliconia bihai						X		
+95,96 Annona muricata						X(96)		X(95)
+
+Primers sequences:
+matK472F 	CCC RTY CAT CTG GAA ATC TTG GTT C 	Yu et al. (2011)
+matK1248R 	GCT RTR ATA ATG AGA AAG ATT TCT GC 	Yu et al. (2011)
+rbcLa‐F 	ATG TCA CCA CAA ACA GAG ACT AAA GC 	Kress and Erickson (2007)
+rbcL724R 	TCG CAT GTA CCT GCA GTA GC 		Fay et al. (1997)
+trnH 		CGC GCA TGG TGG ATT CAC AAT 		CC Tate (2002)
+psbA 		GTT ATG CAT GAA CGT AAT GCT 		Sang et al. (1997)
+ITS‐p5 		CCT TAT CAY TTA GAG GAA GGA 		G Cheng et al. (2016)
+ITS‐p4 		CCG CTT AKT GAT ATG CTT AAA 		Cheng et al. (2016)
